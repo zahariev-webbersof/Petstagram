@@ -6,4 +6,5 @@ import Petstagram
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('Petstagram.common.urls')),
+    path('pets/', include('Petstagram.pets.urls')),
 ]
