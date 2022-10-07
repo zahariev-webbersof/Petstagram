@@ -13,7 +13,7 @@ Petstagram is an application through which you can present your pets, to like pe
 - CSS
 
 
-Petstagram is example Django project, part of Web module in SoftUni University.
+Petstagram is example Django project, part of Web module in SoftUni University
 
 Link to the course - https://softuni.bg/trainings/3356/python-web-framework-july-2021
 
